@@ -115,7 +115,7 @@ In other words, instead of leaving the interview and returning to the status quo
 
 ### Conclusion: 
 
-One of the harder things to determine in an interview are skills like determination, dedication, and consistency.  My last few months are a great example of how much determination I have and how quickly dedication and consistency can produce solid results. 
+*One of the harder things to determine in an interview are skills like determination, dedication, and consistency.  My last few months are a great example of how much determination I have and how quickly dedication and consistency can produce solid results.*
 
 Respectfully, 
 
