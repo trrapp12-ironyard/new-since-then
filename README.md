@@ -2,7 +2,7 @@
 
 ### Purpose:
 
-The last interview experience was super-exciting.  I loved the idea of combining my passion for the Chinese culture and web development in a such a meaningful project as designing the UX/UI for Jiapu.  
+The last interview experience was super-exciting.  I loved the idea of combining my passion for the Chinese culture and web development in such a meaningful project as designing the UX/UI for Jiapu.  
 
 At the end of the interview there were some areas that we determined I needed to strengthen inorder to be ready to step into the role in a productive manner. 
 
