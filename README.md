@@ -20,7 +20,12 @@ In other words, instead of leaving the interview and returning to the status quo
 * test driven development
 * deeper knowledge of JavaScript fundamentals
 
+<br>
+<br>
+
 ### What I have completed in REACT
+
+---
 
 - A React [Business Card](https://trrapp12.github.io/Trevor-Rapp-Electronic-Business-Card/) that demonstrates:
    * Use of map() to iterate of array of items to create JSX elements
@@ -72,7 +77,12 @@ In other words, instead of leaving the interview and returning to the status quo
   * Use of import and export statements
   * Use of local server with webpack
 
+<br>
+<br>
+
 ### What I completed in Test Driven Development
+
+---
 
   * [jest-test-driven-fizz-buzz](https://github.com/trrapp12/jest-test-driven-fizz-buzz) which demonstrates: 
     * Use of package.json
@@ -92,7 +102,13 @@ In other words, instead of leaving the interview and returning to the status quo
     *  Classic palindrome function
     *  An additional function of my own just for extra practice
 
+<br>
+<br>
+
+
 ### What else I did just for fun
+
+---
 
   * Built and api to try and figure out the whole chain of producing to consuming an API.  Still working on integrating the api into my Jokes app. 
     *  Use of NodeJS
@@ -100,7 +116,12 @@ In other words, instead of leaving the interview and returning to the status quo
     *  Publishing of a basic API
     *  Publishing to Heroku
 
+<br>
+<br>
+
 ### What is in line for the future: 
+
+---
 
   * REACT app with full CRUD functionality
   * REACT hooks
@@ -113,7 +134,12 @@ In other words, instead of leaving the interview and returning to the status quo
   * Advanced JavaScript algorithms
   * Advanced CSS projects solidifying mobile first and responsive design
 
+<br>
+<br>
+
 ### Conclusion: 
+
+---
 
 *One of the harder things to determine in an interview are skills like determination, dedication, and consistency.  My last few months are a great example of how much determination I have and how quickly dedication and consistency can produce solid results.*
 
