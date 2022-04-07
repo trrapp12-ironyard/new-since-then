@@ -1,5 +1,21 @@
 # Trevor Rapp improvement log:
 
+###TL;DR
+
+Since we last talked I have completed 5 React projects, 2 Test Driven Development Projects, an API project, and built a roadmap for future success.
+
+See them at: 
+
+- [Business Card](https://trrapp12.github.io/Trevor-Rapp-Electronic-Business-Card/)
+- [Air BNB Experiences Clone](https://trrapp12.github.io/REACT-AirBNB-Clone/)
+- [React Jokes Web Page](https://trrapp12.github.io/React-Jokes/)
+- [Basic React App](https://trrapp12.github.io/my-app/) 
+- [React Facts](https://trrapp12.github.io/react-facts/)
+- [jest-test-driven-fizz-buzz](https://github.com/trrapp12/jest-test-driven-fizz-buzz)
+- [https://github.com/trrapp12/Jest-Palindromes-Test](https://github.com/trrapp12/Jest-Palindromes-Test)
+- [Jokes API](https://rapp-dad-jokes-api.herokuapp.com/jokes)
+
+
 ### Purpose:
 
 The last interview experience was super-exciting.  I loved the idea of combining my passion for the Chinese culture and web development in such a meaningful project as designing the UX/UI for Jiapu.  
@@ -110,7 +126,7 @@ In other words, instead of leaving the interview and returning to the status quo
 
 ---
 
-  * Built and api to try and figure out the whole chain of producing to consuming an API.  Still working on integrating the api into my Jokes app. 
+  * Built a [Jokes API](https://rapp-dad-jokes-api.herokuapp.com/jokes) to try and figure out the whole chain of producing to consuming an API.  Still working on integrating the api into my Jokes app. 
     *  Use of NodeJS
     *  Use of basic backend server
     *  Publishing of a basic API
