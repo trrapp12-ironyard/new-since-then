@@ -1,6 +1,6 @@
 # Trevor Rapp improvement log:
 
-###TL;DR
+### TL;DR
 
 Since we last talked I have completed 5 React projects, 2 Test Driven Development Projects, an API project, and built a roadmap for future success.
 
